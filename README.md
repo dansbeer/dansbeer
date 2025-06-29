@@ -1,11 +1,6 @@
 <!-- GitHub Profile README Template -->
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/106371331?v=4" width="150" alt="Profile Photo" style="border-radius: 50%;" />
-</p>
-
-<h1 align="center">👨‍💻 Pandya Arya Daniswara</h1>
-<h3 align="center">🚀 Developer | 🕹️ Gamer | 🌳 Nature Lover</h3>
+# 👨‍💻 Pandya Arya Daniswara
+**`🚀 Developer | 🕹️ Gamer | 🌳 Nature`**
 
 ---
 
